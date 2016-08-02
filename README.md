@@ -1,7 +1,7 @@
-OpenEmbedded/Yocto recipe patch layer for VK-Jx3-E board
+OpenEmbedded/Yocto recipe patch layer for VK-RZ/A1H board
 ==========================================================
 
-These files provide support for Vekatech ARM platforms (VK-Jx3-E) for use with
+These files provide support for Vekatech ARM platforms (VK-RZ/A1H) for use with
 OpenEmbedded and/or Yocto.
 
 This layer depends on:
